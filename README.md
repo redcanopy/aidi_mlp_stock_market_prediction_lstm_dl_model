@@ -17,3 +17,8 @@ This repository contains a college project focused on predicting stock market mo
     1. On MacOs use 'brew install libomp'
     2. On Linux use 'sudo apt install libomp-dev' on debian. If using other Linux flavours use their respective package managers.
 4. After installation is complete, run each cell in the light_gbm_model.ipynb notebook sequentially to get the results.
+
+## Instructions for running Random Forest and Decision Tree Regressor model
+1. run the command below:
+   - pip install pandas numpy scikit-learn matplotlib
+2. run each cell in the Random_Forest_and_Decision_Tree.ipynb notebook sequentially to get the results
